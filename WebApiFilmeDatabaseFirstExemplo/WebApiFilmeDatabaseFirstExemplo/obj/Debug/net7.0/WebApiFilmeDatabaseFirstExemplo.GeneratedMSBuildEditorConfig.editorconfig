@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApiFilmeDatabaseFirstExemplo
+build_property.RootNamespace = WebApiFilmeDatabaseFirstExemplo
+build_property.ProjectDir = C:\Users\Darth\Documents\Prog\source\repos\WebApiFilmeDatabaseFirstExemplo\WebApiFilmeDatabaseFirstExemplo\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Darth\Documents\Prog\source\repos\WebApiFilmeDatabaseFirstExemplo\WebApiFilmeDatabaseFirstExemplo
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Darth/Documents/Prog/source/repos/WebApiFilmeDatabaseFirstExemplo/WebApiFilmeDatabaseFirstExemplo/Views/Diretores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZXRvcmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Darth/Documents/Prog/source/repos/WebApiFilmeDatabaseFirstExemplo/WebApiFilmeDatabaseFirstExemplo/Views/Diretores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZXRvcmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Darth/Documents/Prog/source/repos/WebApiFilmeDatabaseFirstExemplo/WebApiFilmeDatabaseFirstExemplo/Views/Diretores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZXRvcmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Darth/Documents/Prog/source/repos/WebApiFilmeDatabaseFirstExemplo/WebApiFilmeDatabaseFirstExemplo/Views/Diretores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZXRvcmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Darth/Documents/Prog/source/repos/WebApiFilmeDatabaseFirstExemplo/WebApiFilmeDatabaseFirstExemplo/Views/Diretores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZXRvcmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Darth/Documents/Prog/source/repos/WebApiFilmeDatabaseFirstExemplo/WebApiFilmeDatabaseFirstExemplo/Views/FilmeDiretores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbWVEaXJldG9yZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Darth/Documents/Prog/source/repos/WebApiFilmeDatabaseFirstExemplo/WebApiFilmeDatabaseFirstExemplo/Views/FilmeDiretores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbWVEaXJldG9yZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Darth/Documents/Prog/source/repos/WebApiFilmeDatabaseFirstExemplo/WebApiFilmeDatabaseFirstExemplo/Views/FilmeDiretores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbWVEaXJldG9yZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Darth/Documents/Prog/source/repos/WebApiFilmeDatabaseFirstExemplo/WebApiFilmeDatabaseFirstExemplo/Views/FilmeDiretores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbWVEaXJldG9yZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Darth/Documents/Prog/source/repos/WebApiFilmeDatabaseFirstExemplo/WebApiFilmeDatabaseFirstExemplo/Views/FilmeDiretores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbWVEaXJldG9yZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Darth/Documents/Prog/source/repos/WebApiFilmeDatabaseFirstExemplo/WebApiFilmeDatabaseFirstExemplo/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
